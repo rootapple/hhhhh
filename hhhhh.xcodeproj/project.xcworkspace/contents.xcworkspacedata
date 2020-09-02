@@ -2,9 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/data/Swift-Radio-Pro/SwiftRadio/Main_iPad.storyboard">
-   </FileRef>
-   <FileRef
-      location = "self:">
+      location = "self:/Volumes/work/git/xcode/&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;/v1/&#x5c0f;&#x724c;&#x97f3;&#x4e50;&#x7535;&#x53f0;.xcodeproj">
    </FileRef>
 </Workspace>
